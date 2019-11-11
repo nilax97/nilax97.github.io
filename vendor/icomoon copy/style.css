@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?vge8pt');
-  src:  url('fonts/icomoon.eot?vge8pt#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?vge8pt') format('truetype'),
-    url('fonts/icomoon.woff?vge8pt') format('woff'),
-    url('fonts/icomoon.svg?vge8pt#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?l6yrr');
+  src:  url('fonts/icomoon.eot?l6yrr#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?l6yrr') format('truetype'),
+    url('fonts/icomoon.woff?l6yrr') format('woff'),
+    url('fonts/icomoon.svg?l6yrr#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,20 +25,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-webassembly-icon:before {
+.icon-Tensorflow_logo:before {
   content: "\e900";
 }
 .icon-keras:before {
-  content: "\e902";
+  content: "\e901";
   color: #626262;
 }
 .icon-opencv:before {
-  content: "\e903";
+  content: "\e902";
 }
 .icon-pytorch:before {
-  content: "\e904";
+  content: "\e903";
   color: #626262;
-}
-.icon-Tensorflow_logo:before {
-  content: "\e901";
 }
